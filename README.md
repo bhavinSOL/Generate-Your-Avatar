@@ -105,7 +105,8 @@ Visit [DiceBear Styles](https://www.dicebear.com/styles/) for more options.
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/60560fbc-4d7a-45d1-8575-003ef84f2d71)
+
 
 ---
 
