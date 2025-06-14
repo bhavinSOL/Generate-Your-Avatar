@@ -53,7 +53,7 @@ avatarApp/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/avatarApp.git
+git clone https://github.com/bhavinSOL/avatarApp.git
 cd avatarApp
 ```
 
